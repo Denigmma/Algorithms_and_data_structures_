@@ -70,4 +70,4 @@ Each project includes the source code, detailed explanations, and, where applica
 Below is a visualization of the results achieved during the course:
 
 
-![Course Results](Course result_assessment/res_img.png)
+![Course Results](Course%20result_assessment/res_img.png)
